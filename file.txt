@@ -6,3 +6,5 @@ hello world:x
 writing edits
 :x
 tying my git
+using git by ubuntu
+ubuntu 2
