@@ -25,6 +25,10 @@ pipeline {
             steps{
                 echo 'satge3'
             }
+            stage('stage4'){
+            steps{
+                echo 'satge4 and for Prasanna only'
+            }
         }
     }
 }
